@@ -1,5 +1,5 @@
 {
-    "name": "balls",
+    "name": "the game",
     "description": "",
     "dependencies": {
         "device": "*",

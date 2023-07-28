@@ -541,6 +541,9 @@ mp.moveWithButtons(mp.playerSelector(mp.PlayerNumber.One))
 mp.moveWithButtons(mp.playerSelector(mp.PlayerNumber.Two))
 mp.moveWithButtons(mp.playerSelector(mp.PlayerNumber.Three))
 mp.moveWithButtons(mp.playerSelector(mp.PlayerNumber.Four))
+game.splash("Hey Friend, If you want to host a multiplayer")
+game.splash("game, Open this link")
+game.splash("https://tinyurl.com/MazeGame2023")
 mySprite = sprites.create(img`
     . . . . . . f f f f . . . . . . 
     . . . . f f f 2 2 f f f . . . . 
